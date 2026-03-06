@@ -1,0 +1,8 @@
+{
+  "service_account_file": "path/to/your-service-account-key.json",
+  "site_url": "sc-domain:example.com",
+  "site_display_name": "example.com",
+  "brand_terms": ["mybrand", "my brand"],
+  "relevant_terms": ["topic1", "topic2"],
+  "locale": "de"
+}

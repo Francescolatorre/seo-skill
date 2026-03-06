@@ -1,0 +1,13 @@
+# Credentials
+*.json
+!seo-config.example.json
+
+# Zone.Identifier files (WSL)
+*:Zone.Identifier
+
+# Reports (generated)
+reports/
+
+# Python
+__pycache__/
+*.pyc
